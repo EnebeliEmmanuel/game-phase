@@ -1,3 +1,8 @@
+# challenge-2: 
+# verified contract address:  https://etherscan.io/address/0xdE30dCdE6952eeb634f07aBb6E667c108CCbC51b#code
+# live url: https://ipfs.io/ipfs/QmQXiLAm4fBhw7nJ2ggedNFSVvze1Yr9gd9Va362tRWWRN
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
