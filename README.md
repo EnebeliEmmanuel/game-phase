@@ -1,3 +1,8 @@
+# challenge-1: 
+
+# verified contract-address: https://rinkeby.etherscan.io/address/0x8f998a03bF3e19A0af1b531D254975D0e7EDe658#code
+# live url: https://ipfs.io/ipfs/QmV5iky3RXyTSWahv76NEj5SfP8GDwusHfRwyb6WQNxgX4/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
