@@ -1,3 +1,7 @@
+# challenge-0:
+# verified contract address: https://rinkeby.etherscan.io/address/0xFcD739587163883B839Ed1ac16824838840b63aC#code
+# live url: https://ipfs.io/ipfs/QmZHmgj9n1UaYLj6A1Csgns1MQNn8AAjkx9ZfhvSMwVEvE/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
@@ -223,5 +227,6 @@ https://testnets.opensea.io/assets/0xc2839329166d3d004aaedb94dde4173651babccf/1
 > 💬 Meet other builders working on this challenge in the [Challenge 0 telegram channel](https://t.me/+Y2vqXZZ_pEFhMGMx)!!!
 
 > 👉 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
-#   g a m e - p h a s e  
- 
+#� �g�a�m�e�-�p�h�a�s�e�
+�
+�
